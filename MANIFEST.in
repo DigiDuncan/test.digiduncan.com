@@ -1,0 +1,2 @@
+recursive-include testdigiduncancom/templates *
+recursive-include testdigiduncancom/static *
